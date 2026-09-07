@@ -36,6 +36,10 @@ Overview of the UI screens and system diagrams the team produced to translate th
 
 <img width="1274" height="689" alt="Lecture + pop-up quiz" src="https://github.com/user-attachments/assets/4bb4b12d-2372-4256-b747-d73974046206" />
 
+
+<img width="1405" height="315" alt="lock-system" src="https://github.com/user-attachments/assets/9caa8eb4-563e-445c-98bb-2ee1b104bf91" />
+
+
   
 - **Notes page**
 
