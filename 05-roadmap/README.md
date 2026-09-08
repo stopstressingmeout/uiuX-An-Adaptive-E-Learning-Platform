@@ -1,5 +1,7 @@
 # Roadmap
 
+The project followed an **Agile** methodology as its SDLC model, structured into four sprints rather than a single upfront design-then-build cycle. This allowed research findings and interview feedback to feed back into scope before each phase.
+
 ## Build phases (as planned)
 
 1. **Sprint 1 — Planning & architecture:** project scope, database schema, and system architecture setup
@@ -22,4 +24,4 @@ Core features (video playback, pop-up quizzes, progress dashboard, notes) reache
 
 ## My prioritization view
 
-If I were sequencing this backlog today as a PO, I'd move level identification ahead of the recommendation engine. Recommendations are only as good as the level data feeding them, so getting the classification logic right first avoids rework later. Time tracking is lower-risk and could run in parallel since it doesn't block other features.
+If I were sequencing this backlog today as a PO, I'd move level identification ahead of the recommendation engine as recommendations are only as good as the level data feeding them, so getting the classification logic right first avoids rework later. Time tracking is lower-risk and could run in parallel since it doesn't block other features.
