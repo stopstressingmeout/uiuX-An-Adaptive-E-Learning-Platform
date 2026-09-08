@@ -13,7 +13,7 @@ Existing e-learning platforms (edX, Coursera, and similar) rely on a one-size-fi
 
 ## Motivation & objective
 
-The goal was a platform that moves learners from passive watching to active, measured progress — using embedded quizzes, adaptive leveling, and personalized recommendations to keep engagement high and give learners a clear sense of where they stand.
+The goal was a platform that moves learners from passive watching to active, measured progress , using embedded quizzes, adaptive leveling, and personalized recommendations to keep engagement high and give learners a clear sense of where they stand.
 
 Core objectives:
 1. Replace passive video consumption with in-lecture interactivity (pop-up quizzes, discussion touchpoints).
